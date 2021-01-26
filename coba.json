@@ -1,0 +1,28 @@
+[  
+  { "nama" : "veli",
+    "umur" : 22,
+    "nrp"  : "63782829",
+    "lulus": true,
+    "hobby": [
+        "coding",
+        "gaming"
+    ],
+    "pembimbing" : {
+      "pembimbing1": "lulu",
+      "pembimbing2": "lisa"
+    }
+  },
+  { "nama" : "veli",
+    "umur" : 22,
+    "nrp"  : "63782829",
+    "lulus": true,
+    "hobby": [
+        "coding",
+        "gaming"
+    ],
+    "pembimbing" : {
+      "pembimbing1": "lulu",
+      "pembimbing2": "lisa"
+    }
+  }
+]  
